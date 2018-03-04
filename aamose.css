@@ -1,0 +1,11 @@
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+html, body { /* this allows the children to inherit this style */
+   font-size: 12px;
+   color: white;
+   font-family: courier;
+   background-color:powderblue;
+}
