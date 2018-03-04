@@ -6,6 +6,5 @@ img {
 html, body { /* this allows the children to inherit this style */
    font-size: 12px;
    color: white;
-   font-family: courier;
-   background-color:powderblue;
+   background-color:#3c3c3c;
 }
